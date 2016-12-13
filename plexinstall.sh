@@ -4,7 +4,7 @@ echo Get Ready
 sudo apt-get -y update && sudo apt-get -y upgrade
 
 
-sudo apt-get -y install git curl build-essential python-pip mailutils
+sudo apt-get -y install git curl build-essential python-pip 
 
 echo Installing Plex Media Server
 curl -O -L https://downloads.plex.tv/plex-media-server/1.3.2.3112-1751929/plexmediaserver_1.3.2.3112-1751929_amd64.deb
